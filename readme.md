@@ -4,6 +4,7 @@
 **2.** Adds 3 of my frequently used aliases, 'off', 'restart' and 'cdawesome'  
 **3.** Installs the following programs:  
 >**Dmenu** - For running programs with super + r  
+**Alacritty** - Terminal emulator. Started with super + enter  
 **Network manager** - Connect to the internet with Wi-Fi  
 **Blueman** - Connect to bluetooth  
 **Ntfs-3g** - Enables mounting of ntfs drives  

@@ -19,7 +19,7 @@ echo "alias restart='shutdown -r now'" | cat >> ~/.bashrc
 echo "alias cdawesome='cd ~/.config/awesome/'" | cat >> ~/.bashrc
 
 # Installing basic programs
-sudo pacman -S --noconfirm  --needed dmenu networkmanager nm-connection-editor blueman light ntfs-3g bluez bluez-utils nemo nemo-fileroller git base-devel perl-IO-Compress
+sudo pacman -S --noconfirm  --needed dmenu alacritty networkmanager nm-connection-editor blueman light ntfs-3g bluez bluez-utils nemo nemo-fileroller git base-devel perl-IO-Compress
 
 # Install Yay
 sudo cd /opt/
