@@ -11,8 +11,8 @@
 **Git** - You know what this is :)  
 **Perl-IO-Compress** - Enables zip and unzip from the terminal  
 **Yay** - Enables the use of the AUR  
-**Awesome** - Awesome Window Manager - a tiling wm.
-**Light** - Program to adjust screen brightness
+**Awesome** - Awesome Window Manager - a tiling wm.  
+**Light** - Program to adjust screen brightness  
 **Spotify** - Listen to music  
 **Codium** - FOSS version of VSCode  
 **Discord** - Instant messaging  
