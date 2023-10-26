@@ -12,7 +12,8 @@
 **Git** - You know what this is :)  
 **Perl-IO-Compress** - Enables zip and unzip from the terminal  
 **Yay** - Enables the use of the AUR  
-**Awesome** - Awesome Window Manager - a tiling wm.    
+**Awesome** - Awesome Window Manager - a tiling wm.  
+**Light** - Program to adjust screen brightness  
 **Spotify** - Listen to music  
 **Codium** - FOSS version of VSCode  
 **Discord** - Instant messaging  
@@ -20,6 +21,8 @@
 **4.** Configures awesome with "my" keybindings and look  
 **5.** Configures light so you can adjust brightness with keyboard shortcuts
 
-NB: This script assumes you've already got sddm (or any greeter) already installed.
-NB: This script has not been tested at all :)  
+### NB: This script + rc.lua have to be in ~/Downloads. NOT ~/Downloads/arch_post_install  
+### NB: This script assumes you've already got sddm (or any greeter) already installed.  
+### NB: This script has not been tested at all :)  
+
 I got the awesome layout(s) from https://github.com/lcpz/awesome-copycats
