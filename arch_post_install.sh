@@ -1,3 +1,4 @@
+# shellcheck disable=SC2239
 # Arch Install Script
 # For use with Awesome WM
 # After use of archinstall
