@@ -20,6 +20,8 @@
 **4.** Configures awesome with "my" keybindings and look  
 **5.** Configures light so you can adjust brightness with keyboard shortcuts
 
-NB: This script assumes you've already got sddm (or any greeter) already installed.  
-NB: This script has not been tested at all :)  
+### NB: This script + rc.lua have to be in ~/Downloads. NOT ~/Downloads/arch_post_install  
+### NB: This script assumes you've already got sddm (or any greeter) already installed.  
+### NB: This script has not been tested at all :)  
+
 I got the awesome layout(s) from https://github.com/lcpz/awesome-copycats
