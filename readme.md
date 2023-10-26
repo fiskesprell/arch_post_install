@@ -20,5 +20,5 @@
 **5.** Configures light so you can adjust brightness with keyboard shortcuts
 
 NB: This script assumes you've already got sddm (or any greeter) already installed.
-NB: This script has not been tested at all :)
+NB: This script has not been tested at all :)  
 I got the awesome layout(s) from https://github.com/lcpz/awesome-copycats
